@@ -32,9 +32,9 @@
 
 ## 🌍 Connect with Me
 - 📧 Email: [reaganorondo@gmail.com](mailto:reaganorondo@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/reaganorondo](#) (add when ready)  
-- 🐦 Twitter: [@reaganorondo](#) (optional)  
-- 💻 Portfolio: Coming soon...  
+- 💼 LinkedIn: [linkedin.com/in/reaganorondo](#) 
+- 🐦 Twitter: [@reaganorondo](#)
+- 💻 Portfolio: 
 
 ---
 
